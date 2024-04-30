@@ -5,5 +5,6 @@
   "documentation": "https://github.com/swilson/ha-aqualogic.git",
   "iot_class": "local_push",
   "loggers": ["aqualogic"],
-  "requirements": ["aqualogic==3.4"]
+  "requirements": ["aqualogic==3.4"],
+  "version": "1.0"
 }
