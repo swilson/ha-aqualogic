@@ -1,8 +1,8 @@
 {
-  "domain": "aqualogic",
-  "name": "AquaLogic",
-  "documentation": "https://www.home-assistant.io/integrations/aqualogic",
+  "domain": "aqualogic_custom",
+  "name": "AquaLogic Custom Component",
+  "documentation": "https://github.com/swilson/ha-aqualogic.git",
   "requirements": ["aqualogic==3.4"],
   "codeowners": [],
-  "version": "2.0"
+  "version": "1.0"
 }
